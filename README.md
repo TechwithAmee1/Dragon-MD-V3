@@ -8,7 +8,7 @@
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටන් බාවිතා කරන්න..
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TechwithAmee1/Dragon-MD-V3)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/jxbUqE?referralCode=uWBrrv)
+<a>[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/jxbUqE?referralCode=uWBrrv)
 
 ---------------------------------   
 
